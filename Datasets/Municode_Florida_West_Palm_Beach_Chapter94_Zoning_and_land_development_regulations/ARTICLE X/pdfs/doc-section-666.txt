@@ -1,0 +1,38 @@
+Sec. 94-336. - Interference with public safety communications.
+By placing or maintain wireless telecommunication facilities within the city, each and every telecommunication service
+provider and pass-through service provider agrees to each of the following:
+1. Compliance with "good engineering practices" as defined by the FCC in its rules and regulations.
+2. Compliance with FCC regulations regarding susceptibility to radio frequency interference, frequency coordination
+requirements, general technical standards for power, antenna, bandwidth limitations, frequency stability, transmitter
+measurements, operating requirements, and any and all other federal statutory and regulatory requirements relating
+to radio frequency interference (RFI).
+3. In the case of an application for collocated wireless communications facilities, the applicant/registrant, together with
+the owner of the subject site, shall use their best efforts to provide a composite analysis of all users of the site to
+determine that the applicant's proposed facilities will not cause radio frequency interference with the city's public
+safety communications equipment and will implement appropriate technical measures, as described in antenna
+element replacements, to attempt to prevent such interference.
+4. Whenever the city, or a public safety agency (after notice to the city) has encountered radio frequency interference
+with its public safety communications equipment and it believes that such interference has been or is being caused
+by one or more antenna arrays, the following steps shall be taken:
+a. The city shall provide notification to all wireless service providers operating in the city of possible interference
+with the public safety communications equipment, and upon such notifications, the owners shall use their best
+efforts to cooperate and coordinate with the city and among themselves to investigate and mitigate the
+interference, if any, utilizing the procedures set forth in the joint wireless industry-public safety "Enhanced
+Best Practices Guide," released by the FCC in Appendix D of FCC 04-168 (released August 6, 2004),
+including the "Good Engineering Practices," as may be amended or revised by the FCC from time to time in
+any successor regulations.
+b. If any equipment owner fails to cooperate with the city in complying with the owner's obligations under this
+section or if the FCC makes a determination of radio frequency interference with the city public safety
+communications equipment, the owner who failed to cooperate and/or the owner of the equipment which
+caused the interference shall be responsible, upon FCC determination of radio frequency interference, for
+reimbursing the city for all costs associated with ascertaining and resolving the interference, including but not
+limited to any engineering studies obtained by the city to determine the source of the interference. For the
+purposes of this subsection, failure to cooperate shall include failure to initiate any response or action as
+described in the "Enhanced Best Practices Guide" within twenty-four hours of city's notification.
+(Ord. No. 4549-15, § 2(94-346), 6-8-2015)
+
+Zoning and Land Development Code
+
+Page 1
+
+

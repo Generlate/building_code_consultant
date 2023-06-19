@@ -1,0 +1,260 @@
+Sec. 94-323. - Permits.
+a. The placement or maintenance of new wireless communication facilities shall be permitted within the zoning
+districts only in accordance with the wireless communication permit indicated in the following table, and shall be
+subject to compliance with the land development requirements and permit or registration requirements of this Code.
+The placement or maintenance of wireless communication facilities in the public rights-of-way shall comply with the
+regulations in chapter 78 of this Code.
+ZONING DISTRICTS
+SF3
+SF5
+SF7
+SF11
+SF14
+
+AMATEUR RADIO TOWER 25-50 FEET
+IN HISTORIC DISTRICT;
+SATELILITE EARTH STATION <1
+METER IN DIAMETER IN HISTORIC
+DISTRICT
+AMATEUR RADIO TOWER > 50 FEET
+SATELLITE EARTH STATION >1
+METER DIAMETER
+ANTENNA ELEMENT REPLACEMENT
+FACILITIES TO BE LOCATED ON
+WPB MASTER PLAN DESIGNATED
+SITES
+CONCEALED ATTACHED ANTENNA
+COLLATED OR COMBINING ON
+EXISTING TOWER
+NON-CONCEALED ATTACHED
+ANTENNA*
+MITIGATION OF EXISTING TOWER
+CONCEALED FREESTANDING
+TOWER
+SATELLITE EARTH STATION >1
+METER DIAMETER
+NON-CONCEALED FREESTANDING
+TOWER
+BROADCAST TOWER
+
+SF7C4
+SF14C2
+SF14C3
+SF14C5
+
+MF14
+MF20
+MF32
+
+MF14C1
+MF14C2
+MF20C1
+MF32C1
+
+I
+
+CC2
+
+DMP
+RES.
+SUBDIST.
+
+DMP
+NONRES.
+SUBDIST.
+
+CM
+OC
+NC
+GC
+POR
+
+IL
+I
+ROS
+CS
+UT
+W
+PC
+PD
+
+NMUD
+CMUD
+BMUD
+
+I
+
+I
+
+III
+
+I
+
+III
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+II
+
+II
+
+II
+
+II
+
+II
+
+II
+
+II
+
+II
+
+II
+
+II
+
+IV**
+
+IV*
+
+II
+
+II
+
+II
+
+II
+
+II
+
+II
+
+II
+
+II
+
+II
+
+II
+
+II
+
+II
+
+II
+
+II
+
+II
+
+II
+
+II
+
+II
+
+II
+
+II
+
+II
+
+II
+
+II
+
+II
+
+II
+
+II
+
+II^
+
+III
+
+III
+
+II
+
+II
+
+IV
+IV
+
+NOTES:
+*Non-concealed attached antennas are only allowed on high voltage electric power transmission towers and light stanchions not located in public
+rights-of-way except for DAS facilities.
+**Concealed attached antennas are only allowed on non-residential parcels in SF districts and are expressly prohibited on a parcel used for
+residential purposes.
+^Level II provided the mitigated facility does not increase the existing height. If there is a height increase, level III or IV permit shall be required.
+
+b. Wireless communication permits.
+1. Level I wireless communication permit. The wireless communication permit issued by the planning division to
+an individual, corporation, partnership,or other entity to engage in the creation of an amateur radio tower
+which exceeds twenty five feet in a historic district and fifty feet in non-historic districts in accordance with the
+
+Zoning and Land Development Code
+
+Page 1
+
+provisions of F.S. § 166.0435, or a satellite earth station in excess of one meter in diameter, (or less than one
+meter in diameter if located in an historic district), or antenna element replacements. For installation within a
+local or national register historic district or designated site, a certificate of appropriateness is also required
+pursuant to section 94-49.
+2. Level II wireless communication permit. The wireless communication permit issued by the planning division to
+an individual, corporation, partnership, or other entity to engage in: (i) concealed attached antennas, (ii) nonconcealed attached antennas on existing transmission towers and light stanchions (iii) collocation or
+combining on existing tower or facilities to be located on sites contained in the master plan, and excluding
+amateur radio towers, in accordance with the provisions of F.S. § 365.172(12); (iv) for DAS facilities outside
+of a public right-of-way (including a DAS Hub); (v) mitigation of existing tower; and (vi) for new concealed
+attached facilities. For installation within a local or national register historic district or designated site, a
+certificate of appropriateness is required pursuant to section 94-49.
+3. Level III wireless communication permit. The Class B special use permit (Sb) issued by the planning division
+after review and approval by the zoning board of appeals (ZBA), or by the historic preservation board for
+property within an historic district, to an individual, corporation, partnership, or other entity to engage in the
+creation of new concealed towers, excluding amateur radio towers. For installation within a local or national
+register historic district or designated site, a certificate of appropriateness is also required pursuant to section
+94-49.
+4. Level IV wireless communication permit. The Class A special use permit (Sa) issued by the planning division
+after review by the planning board and approval by the city commission, to an individual, corporation,
+partnership, or other entity to engage in the mitigation of existing tower facilities, creation of new broadcast
+facilities, non-concealed towers or non-concealed attached facilities, excluding amateur radio towers, and
+certain concealed attached antennas in certain zoning districts.
+(Ord. No. 4549-15, § 2(94-333), 6-8-2015; Ord. No. 4650-16, § 7(Exh. G), 8-29-2016; Ord. No. 4660-16, § 9, 12-5-2016)
+
+Zoning and Land Development Code
+
+Page 2
+
+

@@ -1,0 +1,73 @@
+Sec. 94-320. - Wireless communications facilities.
+a. Purpose. The purpose of this article is to establish general guidelines for the siting (not in public rights-of-way) of
+towers and other structures used for wireless communications and broadcast facilities including the antenna,
+ground equipment, and accessory structures related to wireless communications infrastructure, and to promote the
+health, safety, and general welfare of the public from:
+1. Potential injury to citizens and damage to property from falling towers;
+2. Potential injury to people while playing around towers and their appurtenant compounds;
+3. Potential injury and damage to low-flying law enforcement and medical helicopters and public and private
+aircraft;
+4. Potential aesthetic harm to residential communities;
+5. Potential incompatibility with historic districts; and
+6. Potential negative economic impacts on the heritage and scenic tourist industry.
+b. Jurisdiction. These regulations shall govern the establishment and maintenance of wireless communications
+facilities not within the public rights-of-way. Provisions of this [DIVISION 2] shall apply uniformly to all areas within
+the jurisdiction of the city.
+c. Exempt facilities. The following items are exempt from the provisions of this division; however compliance with other
+applicable regulations in this Code and all applicable building permits and other permits required by the code will be
+required:
+1. Any amateur radio tower less than 50 feet in height and located at the rear of the property, not located in an
+historic district, or less than 25 feet in height and located at the rear of the property located in a historic
+district.
+2. Satellite earth stations that are one meter (39.37 inches) or less in diameter in all non-historic residential
+districts and two meters or less in all other non-historic zoning districts.
+3. A government-owned wireless communications facility, upon the declaration of a state of emergency by
+federal, state, or local government, and a written determination of public necessity by the city designee;
+except that such facility must comply with all federal and state requirements. No wireless communications
+facility shall be exempt from the provisions of this division beyond the duration of the state of emergency.
+4. A government-owned wireless communications facility erected for the purposes of installing antenna(s) and
+ancillary equipment necessary to provide communications for public health and safety.
+5. A temporary, commercial wireless communications facility, upon the declaration of a state of emergency by
+federal, state, or local government, or determination of public necessity by the city and approved by the city;
+except that such facility must comply with all federal and state requirements. The wireless communications
+facility may be exempt from the provisions of this division up to three months after the duration of the state of
+emergency.
+6. A temporary, commercial wireless communications facility, for the purposes of providing coverage of a
+special event such as news coverage or sporting event, subject to approval by the city, except that such
+facility must comply with all federal and state requirements. Said wireless communications facility may be
+exempt from the provisions of this division up to one week after the duration of the special event.
+d. Applicability. These regulations shall apply to installation, construction, or modification of all wireless
+communications facilities not exempt under subsection (c) above, including but not limited to:
+1. Non-exempt amateur radio station antennas and structures more than 25 feet in height within an historic
+district; and those 50 feet or higher in non-historic districts, consistent with the requirements of F.S. §
+166.0435.
+2. Non-exempt satellite earth stations.
+3. Existing antenna support structures.
+4. Proposed antenna support structures.
+5. Public antenna support structures.
+
+Zoning and Land Development Code
+
+Page 1
+
+6.
+7.
+8.
+9.
+10.
+11.
+
+Replacement of existing antenna support structures.
+Mitigation of antenna support structures.
+Collocation on existing antenna support structures.
+Attached wireless communications facilities.
+Concealed wireless communications facilities.
+Broadcast facilities.
+
+(Ord. No. 4549-15, § 2(94-330), 6-8-2015)
+
+Zoning and Land Development Code
+
+Page 2
+
+

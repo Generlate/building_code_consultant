@@ -1,0 +1,41 @@
+Sec. 94-324. - Level I development standards.
+a. Amateur radio towers. The requirements in this section regarding amateur radio towers are based on health, safety,
+and aesthetic considerations and has been crafted to accommodate reasonable amateur communications, and to
+represent the minimum practicable regulation to accomplish the city's legitimate purposes.
+1. License. Applicant shall provide a copy of a valid FCC amateur operator's license as required by 47 C.F.R. §
+97.5.
+2. Building permit. An amateur radio tower shall not be erected until a valid building permit has been obtained
+from the city.
+3. Height. Tower height and location shall comply with applicable federal and state law regarding amateur radio
+towers, including the requirements of F.S. § 166.0435, and Amateur Radio Preemption, 101 FCC2d 952
+(1985) ("PRB-1"). Any height request from an amateur tower applicant in excess of 50 feet in non-historic
+districts and 25 feet in historic districts shall require a variance pursuant to section 94-339 of this Code. The
+applicant shall present technical evidence to demonstrate that the antenna structure is the minimum practical
+height necessary to allow function at all amateur frequency bands.
+4. Minimum setback requirements.
+a. Free standing tower. A distance equal to the height of the tower shall separate new amateur radio
+towers from property lines, right-of-way lines and/or easements.
+b. Tower or antenna support structure bracketed to main structure. A distance equal to the measurement
+from the top bracket to the top of the highest antenna shall separate the tower/antenna support from
+property lines, right-of-way lines and/or easements.
+c. Any relocation of an amateur radio tower on the same parcel must comply with current setback
+requirements. A variance may be obtained if the relocation does not increase the amount by which
+setbacks are nonconforming, other than increases necessitated solely by changes in size of the base to
+support the new tower.
+5. Location. Behind the principal structure and located, to the extent practical, to limit sight from the public
+rights-of-way, without interfering with communications and operability. If free standing, tower or antenna shall
+be located toward the rear of the property.
+6. Antenna element. Antennas shall be mounted so as to provide for removal at the approach of hurricanes.
+a. The addition of antenna elements or the replacement of existing antenna elements shall be permitted
+provided that the new or replacement does not increase the height or wind loading of the subject facility
+as evidenced by a sealed statement from a structural engineer licensed by the state of Florida.
+7. Variance. Amateur tower applicants that do not meet the requirements set forth in this section may seek a
+variance or waiver, as applicable, pursuant to the procedures in section 94-339 and shall provide information
+to the city as to the technical basis for the applicant's request.
+(Ord. No. 4549-15, § 2(94-334), 6-8-2015)
+
+Zoning and Land Development Code
+
+Page 1
+
+

@@ -1,0 +1,102 @@
+Sec. 94-579. - Level of service standards.
+The following level of service standards shall be used to determine whether concurrency exists:
+1. Roads.
+a. Noncity roads. The county road ordinances impose certain level of service requirements of the county on
+certain developments within the city. If an application for a concurrency determination, a certificate of
+concurrency reservation, or a conditional certificate of concurrency reservation includes a project which is
+subject to the county road ordinances, the applicant must submit with such application written documentation
+from the county engineering department evidencing that the project shall be in full compliance with the
+requirements of the county road ordinances, and, if an application is for other than a concurrency
+determination, such compliance shall exist for the entire life of the requested certificate and all possible
+development orders flowing therefrom.
+b. City roads LOS.
+1. The city thoroughfare roads, as identified in the comprehensive plan, shall operate at the adopted level
+of service "E" as defined in the state department of transportation Generalized Daily Level of Service
+Table. The comprehensive plan states that the city will satisfy concurrency requirements for roads by
+complying with the county road ordinances, which supersede the city traffic performance standards for
+county thoroughfares.
+2. The county road ordinances provide for a concurrency determination by the county engineering
+department if a proposed project will generate more than 1,000 vehicle trips per day, as determined by
+a professional traffic engineer. A traffic study may be required by the county engineering department if
+the number of trips approaches the 1,000 trip per day threshold. In the event that a proposed project will
+generate 1,000 or fewer vehicle trips per day, the planning department will maintain a cumulative total
+of all trips and will transmit this information to the county engineering department on a regular basis.
+The city shall monitor traffic counts on city urban collectors. Through this procedure, the level of service
+standard adopted in the comprehensive plan shall be maintained on city roads for both small and large
+projects.
+2. Sanitary sewer. Sanitary sewer facilities shall operate at the following LOS:
+DISTRICTS
+
+SEWER LEVEL OF SERVICE
+
+Single-family
+Multifamily
+Commercial
+Industrial
+Hotel
+
+350 gallons per day/dwelling unit
+250 gallons per day/dwelling unit
+0.20 gallons per day/square feet
+0.15 gallons per day/square feet
+100 gallons per day/room
+
+PEAKING FACTOR
+
+AVG DAILY FLOW (MGD)
+
+3.5
+3.0
+2.5
+2.0
+
+0.01 to 0.05
+0.05 to 0.25
+0.25 to 2.00
+;gt; 2.0
+
+3. Solid waste. The solid waste facilities serving the city shall operate at the following LOS standards:
+Collection. The city shall adhere to the franchise agreement with the solid waste authority by providing a minimum
+level of service for residential garbage collection of twice per week, bulk trash collection of once per week,
+vegetation collection of once per week, and recyclable collection of once per week.
+
+Zoning and Land Development Code
+
+Page 1
+
+Disposal. The city shall ensure delivery of solid waste material collected to the Solid Waste Authority (SWA) north
+county landfill and shall continue to seek annual certification from the SWA that it has sufficient disposal capacity to
+accommodate the solid waste generated for both the five-year and ten-year planning periods. The SWA certification
+letter shall constitute compliance with the city's solid waste LOS standard.
+4. Drainage. Drainage facilities shall operate at the following LOS standards:
+DRAINAGE TYPE
+Storm sewer systems
+Canal systems
+
+LEVEL OF SERVICE
+3-year, 1-hour storm
+25-year, 24-hour storm
+
+5. Potable water. Average annual water consumption rate:
+MUNICIPALITY
+West Palm Beach Service Area
+
+AVERAGE ANNUAL WATER CONSUMPTION RATE (GPPD)
+269
+
+6. Parks and recreation. Parks and recreation facilities shall operate at the following LOS standards:
+PARK FACILITIES
+Community Parks
+Regional Parks
+
+POLICY LOS
+2.5 acres/1,000 persons
+1.5 acres/1,000 persons
+
+(Code 1979, § 33-248; Ord. No. 4449-13, § 26, 3-19-2013)
+
+Zoning and Land Development Code
+
+Page 2
+
+

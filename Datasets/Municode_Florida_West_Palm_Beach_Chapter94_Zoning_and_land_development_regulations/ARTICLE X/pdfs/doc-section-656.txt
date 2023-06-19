@@ -1,0 +1,116 @@
+Sec. 94-326. - Level III development standards.
+All new concealed towers shall meet the following requirements:
+a. Determination of need. No new concealed freestanding tower shall be permitted unless the applicant demonstrates
+that no existing tower or alternative structure within the applicant wireless provider's geographic search area can
+accommodate the applicant's proposed antenna elements; or that use of such existing facilities would prohibit
+personal wireless services in the geographic search area to be served by the proposed antenna support structure.
+Accordingly, the applicant shall provide:
+1. A copy of the geographic search area of the wireless provider committed to locate on the tower and that is
+justifying the placement of the tower;
+2. An inventory of all existing towers and all potential alternative structures that are at least 80 percent of the
+height of the proposed tower within that geographic search area; and
+3. A written explanation documenting why an existing tower cannot reasonably be used, instead of building a
+new tower.
+b. In residential districts, new towers shall only be permitted on lots whose principal use is not single-family residential
+including but not limited to: schools, churches, synagogues, fire stations, parks, and other government-owned
+property and/or facilities.
+c. All towers up to 130 feet in height shall be engineered and constructed to accommodate no less than three antenna
+arrays.
+d. Height.
+1. Height calculations shall include above ground foundations, but exclude lightning rods or lights required by
+the FAA that do not provide any support for antennas.
+2. New concealed towers shall be limited to 130 feet or less in height.
+e. Setbacks. New freestanding towers and equipment compounds shall be subject to the setbacks described below for
+breakpoint technology:
+1. If the antenna support structure has been constructed using breakpoint design technology, the minimum
+setback distance shall be equal to 110 percent of the distance from the top of the structure to the breakpoint
+level of the structure, or the minimum side and rear yard requirements, whichever is greater. For example, on
+a 100-foot tall monopole with a breakpoint at 80 feet and a side and back setback of 15 feet, the minimum
+setback distance would be 22 feet (110 percent of 20 feet, the distance from the top of the monopole to the
+breakpoint). However, if the side and back setback were 30 feet, then 30 feet would be the minimum setback
+distance in the above example. Certification by a registered professional engineer licensed by the State of
+Florida of the breakpoint design and the design's fall radius must be provided together with the other
+information required herein from an applicant.
+2. If the antenna support structure has not been constructed using breakpoint design technology, the minimum
+setback distance shall be equal to 110 percent of the height of the proposed antenna support structure.
+f. Visual impact analysis; photo simulation. The applicant must demonstrate that the proposed tower does not create
+a significant adverse visual aesthetic impact on the surrounding landscape, adjacent properties and existing line of
+sight. The application shall include a visual impact analysis, including simulated photographic evidence of the
+proposed tower and antenna appearance from any and all residential areas within 1,500 feet and other area
+vantage points approved by the planning division, including the facility types the applicant has considered. Such
+simulations shall demonstrate the potential visual impact on the area, including but not limited to:
+1. Overall height.
+2. Configuration.
+3. Physical location.
+4. Mass and scale.
+5. Materials and color.
+6. Illumination.
+
+Zoning and Land Development Code
+
+Page 1
+
+7. Architectural design.
+g. New concealed freestanding towers shall be designed to match adjacent structures, landscapes and local character
+with specific design considerations such as architectural designs, height, scale, color, and texture.
+h. Balloon test. A balloon test shall be required subsequent to the receipt of the photo simulations in order to
+demonstrate the proposed height of the tower.
+1. The applicant shall arrange to raise a colored balloon, in sharp contrast with sky blue and no less than three
+feet in diameter, at the maximum height of the proposed tower and within 30 horizontal feet of the center of
+the proposed antenna support structure.
+2. The applicant shall inform the city and abutting property owners in writing of the date and times of the test at
+least 14 days in advance. The date, time and location of the balloon test shall be advertised in a locally
+distributed paper in a display ad at least two inches in width by the applicant at least seven but no more than
+14 days in advance of the test dates determined by city staff, as well as alternate dates in case of inclement
+weather. The balloon shall be flown for at least four consecutive hours during daylight hours on the dates
+chosen. The applicant shall record the weather during the balloon test. Re-advertisement will not be required
+if inclement weather occurs, provided the advertisement specifies the alternative date in the event of
+inclement weather.
+i. Equipment compound. The equipment compound shall not be used for the storage of any excess equipment or
+hazardous materials. No outdoor storage yards shall be allowed in a tower equipment compound, and the
+compound shall not be used as habitable space.
+j. Fencing. All equipment compounds shall be enclosed with an opaque fence. Alternative equivalent screening may
+be approved through the site plan approval process described in section 94-35.
+k. Equipment cabinets. Cabinets shall not be visible from pedestrian views. Cabinets may be provided within the
+principal building, behind a screen on a rooftop, or on the ground within the fenced-in and screened equipment
+compound.
+l. Buffers and landscaping.
+1. In all allowable locations the equipment compound shall be landscaped and screened pursuant to section 94434(b).
+2. Alternative landscaping plans which provide for the same average canopy and understory trees but propose
+alternative siting on the entire subject property on which the proposed facility is projected may be considered
+and approved by the planning division, provided the proposed alternative maximizes screening as provided
+above, and is otherwise consistent with the requirements of this section.
+m. Signage. Commercial messages shall not be displayed on any tower. Noncommercial signage shall be subject to
+the following:
+1. The only signage that is permitted (and shall be required) upon an antenna support structure, equipment
+cabinets, or fence shall be informational, and for the purpose of identifying the antenna support structure
+(either by the ASR registration number or other identifying information), as well as the party responsible for
+the operation and maintenance of the facility; i.e. the address and telephone number, security or safety signs,
+and property manager signs (if applicable).
+2. If more than 220 volts are necessary for the operation of the facility and is utilized within the equipment
+compound or in the antenna support structure, signs located every 20 feet and attached to the fence or wall
+shall display in large, bold, high contrast letters (minimum height of each letter four inches) the following:
+"HIGH VOLTAGE - DANGER."
+n. Lighting. Lighting on towers shall not exceed the FAA minimum standards. Any lighting required by the FAA must
+be of the minimum intensity and number of flashes per minute (i.e., the longest duration between flashes) allowable
+by the FAA. Dual lighting standards are required and strobe light standards are prohibited unless required by the
+FAA. The lights shall be oriented so as not to project directly onto surrounding property, consistent with FAA
+requirements.
+o. Grading. Grading shall be minimized and limited only to the area necessary for the new tower and equipment.
+p. Sounds. No unusual sound emissions such as alarms, bells, buzzers, or the like are permitted. Sound levels shall
+not exceed 70db.
+q. Generators. Emergency generators and their permitted fuel tanks shall be allowed at each tower site.
+r. Parking. One parking space is required for each tower development area. The space shall be provided within the
+leased area, or equipment compound or the development area as defined on the site plan.
+
+Zoning and Land Development Code
+
+Page 2
+
+(Ord. No. 4549-15, § 2(94-336), 6-8-2015)
+
+Zoning and Land Development Code
+
+Page 3
+
+

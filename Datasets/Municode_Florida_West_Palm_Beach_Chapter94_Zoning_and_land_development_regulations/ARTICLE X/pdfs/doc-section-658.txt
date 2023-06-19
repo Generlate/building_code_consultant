@@ -1,0 +1,83 @@
+Sec. 94-328. - Level IV permits (broadcast towers).
+a. Determination of need. No applications for new broadcast facilities shall be accepted unless the applicant provides
+a copy of a valid FCC Form 351/352 construction permit specifying NAD 27 coordinates for the proposed tower
+(together with a conversion of such coordinates to NAD 83.), which shall be prima facie evidence of the applicant's
+need for a specific geographic location in order to construct a broadcast station.
+b. Height. Height for broadcast facilities shall be evaluated on a case by case basis; the determination of height
+contained in the applicant's FCC Form 351/352 construction permit or application for construction permit and an
+FAA determination of no hazard (FAA Form 7460/2) shall be considered prima facie evidence of the tower height
+required for such broadcast facilities.
+c. Setbacks. New broadcast facilities and anchors shall be setback a minimum of 500 feet from any single-family
+dwelling unit on same zone lot; and a minimum of one foot for every one foot of tower height from all adjacent lots
+of record.
+d. Visual impact analysis; photo simulation. The applicant must demonstrate that the proposed tower does not create
+a significant adverse visual aesthetic impact on the surrounding landscape, adjacent properties and lines of sight.
+The application shall include a visual impact analysis, including simulated photographic evidence of the proposed
+tower and antenna appearance from any and all residential areas within 1,500 feet and other area vantage points
+approved by the planning division, including the facility types the applicant has considered. Such simulations shall
+demonstrate the potential visual impact on the area, including but not limited to:
+1. Overall height.
+2. Configuration.
+3. Physical location.
+4. Mass and scale.
+5. Materials and color.
+6. Illumination.
+7. Architectural design.
+e. Equipment compound. The equipment compound shall not be used for the storage of any excess equipment or
+hazardous materials. No outdoor storage yards shall be allowed in a tower equipment compound. The compound
+shall not be used as habitable space.
+f. Fencing. All broadcast facility towers, AM antenna(s) towers, and guy anchors shall each be surrounded with an
+anti-climbing fence compliant with applicable FCC regulations.
+g. Broadcast equipment cabinets. Except for AM broadcast facilities, cabinets shall not be visible from pedestrian
+views.
+h. Buffers and landscaping.
+1. Except for AM broadcast facilities, it is the intent that all pedestrian views from public rights-of-ways and
+adjacent residential land uses be screened from proposed broadcast facilities pursuant to section 94-434(b).
+AM broadcast facilities shall, where practicable, use artificial screening devices in lieu of natural vegetation
+for screening its ground equipment located at the base of AM tower(s).
+2. Alternative landscaping plans which provide for the same average canopy and understory trees but propose
+alternative siting on the entire subject property on which the proposed facility is projected may be considered
+and approved by the planning division, provided the proposed alternative maximizes screening as provided
+above, and is otherwise consistent with the requirements of this section.
+i. Signage. Commercial messages shall not be displayed on any tower. Noncommercial signage shall be subject to
+the following:
+1. The only signage that is permitted upon an antenna support structure, equipment cabinets, or fence shall be
+informational, and for the purpose of identifying the antenna support structure (such as ASR registration
+number), as well as the party responsible for the operation and maintenance of the facility; i.e. the address
+and telephone number, security or safety signs, and property manager signs (if applicable).
+
+Zoning and Land Development Code
+
+Page 1
+
+j.
+
+k.
+l.
+
+m.
+n.
+
+2. If more than 220 volts are necessary for the operation of the facility, signs located every 20 feet and attached
+to the fence or wall shall display in large, bold, high contrast letters (minimum height of each letter four
+inches) the following: "HIGH VOLTAGE - DANGER."
+Lighting. Lighting on towers shall meet and not exceed the FAA minimum standards. Any lighting required by the
+FAA must be of the minimum intensity and number of flashes per minute (i.e., the longest duration between flashes)
+allowable by the FAA. Dual lighting standards are required and strobe light standards are prohibited unless required
+by the FAA. The lights shall be oriented so as not to project directly onto surrounding property, consistent with FAA
+requirements.
+Grading. Grading shall be minimized and limited only to the area necessary for the new tower and equipment.
+Sounds. No unusual sound emissions such as alarms, bells, buzzers, or the like are permitted. Emergency
+generators are allowed. Sound levels shall not to exceed 70db as measured from the ground immediately outside of
+the equipment compound for the facility.
+Generators. Emergency generators shall be allowed at each tower site.
+Parking. One parking space is required for each tower development area. The space shall be provided within the
+leased area, or equipment compound or the development area as defined on the site plan.
+
+(Ord. No. 4549-15, § 2(94-338), 6-8-2015)
+
+Zoning and Land Development Code
+
+Page 2
+
+

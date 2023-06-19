@@ -1,0 +1,38 @@
+Sec. 94-322. - Siting communication facilities.
+a. Siting alternatives order. The preferred siting of a wireless communication facility within the city will be in
+accordance with the following siting alternatives order:
+1. a. Concealed attached antenna on public right-of-way/property.
+b. Collocated or combined on existing tower on public right-of-way property.
+2. a. Concealed attached antenna on private property.
+b. Collocated or combined on existing tower on private property.
+3. Non-concealed attached antenna.
+a. On public right-of-way/property.
+b. On private property.
+4. Mitigation of existing tower.
+a. On public right-of-way/property.
+b. On private property.
+5. Concealed freestanding tower.
+a. On public right-of-way/property.
+b. On private property.
+6. Non-concealed freestanding tower.
+a. On public right-of-way/property.
+b. On private property.
+For attached, collocated, or combined antenna: The order of ranking preference, highest to lowest, is: (1)a., (2)a., (1)b.,
+(2)b., (3)a., (3)b. Where a lower ranked alternative is proposed, the applicant must file relevant justification, including, but
+not limited to, an affidavit by a licensed engineer with documented expertise in radio frequency propagation,
+demonstrating that despite diligent efforts to adhere to the established hierarchy within the geographic search area, higher
+ranked options are not technically feasible, practical or justified given the location of the proposed wireless
+communications facility.
+For mitigated or freestanding tower: The order of ranking preference from highest to lowest is: (4)a., (4)b., (5)a., (5)b.,
+(6)a., (6)b. Where a lower ranked alternative is proposed, the applicant must demonstrate higher ranked options are not
+technically feasible, practical, or justified given the location of the proposed wireless communications facility, and the
+existing land uses of the subject and surrounding properties within 300 feet of the proposed tower.
+Facilities to be located in the public right-of-way. Facilities in the public right-of-way shall be governed by chapter 78,
+article XI, division 2 of this Code.
+(Ord. No. 4549-15, § 2(94-332), 6-8-2015)
+
+Zoning and Land Development Code
+
+Page 1
+
+

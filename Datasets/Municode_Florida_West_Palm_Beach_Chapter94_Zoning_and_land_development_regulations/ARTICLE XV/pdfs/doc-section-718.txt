@@ -1,0 +1,126 @@
+Sec. 94-484. - Shared parking requirements.
+a. Intent. The intent of this section is to permit a reduction in the total number of required parking spaces when
+property is occupied by two or more uses which typically do not experience peak parking demands at the same
+time.
+b. Calculation of shared parking requirements. Notwithstanding the provisions of subsection 94-481(c), when any land
+or building is used for two or more distinguishable purposes as listed in this section, the minimum total number of
+required parking spaces shall be determined by the following procedure:
+1. Multiply the minimum parking requirement for each individual use as provided in section 94-486 by the
+appropriate percentage listed in Table XV-1 for each of the five designated time periods.
+2. Add the resulting sum for each of the five vertical columns for the table.
+3. The minimum parking requirement is given by the highest sum resulting from subsection (b)(2) of this section.
+4. Limitations.
+a. Parking spaces which are reserved for use by specified individuals or classes of individuals shall not be
+counted toward meeting parking requirements.
+b. The provisions in this section shall not result in a reduction of more than 25 percent from the
+requirements which would apply in the absence of this section.
+TABLE XV-1:
+CALCULATION OF SHARED PARKING REQUIREMENTS
+WEEKDAYS
+USES
+
+Residential
+Office/Industrial
+Comm./Retail (nonoffice)
+Hotel (city center)
+Hotel (noncity center)
+Restaurant
+Ent./Recr. (theatres, bowling
+alleys, etc.)
+Movie theatres
+All others
+
+WEEKEND
+
+NIGHT
+MIDNIGHT
+6:00 A.M.
+(PERCENT)
+
+DAY
+9:00 A.M.
+4:00 P.M.
+(PERCENT)
+
+EVE.
+6:00 P.M.
+MIDNIGHT
+(PERCENT)
+
+DAY
+9:00 A.M.
+6:00 P.M.
+(PERCENT)
+
+EVE.
+6:00 P.M.
+4:00 A.M.
+(PERCENT)
+
+100
+5
+5
+80
+70
+10
+
+60
+100
+90
+80
+70
+50
+
+90
+10
+70
+100
+100
+100
+
+80
+10
+100
+80
+70
+50
+
+90
+5
+70
+100
+100
+100
+
+10
+
+40
+
+100
+
+80
+
+100
+
+10
+100
+
+40
+100
+
+85
+100
+
+80
+100
+
+100
+100
+
+(Code 1979, § 33-173)
+
+Zoning and Land Development Code
+
+Page 1
+
+

@@ -1,0 +1,154 @@
+Sec. 94-175. - Industrial districts neighborhood compatibility requirements.
+a. Intent. The intent of neighborhood compatibility standards is to provide criteria to determine the anticipated impacts
+of proposed industrial development on surrounding residential zoning districts.
+b. Application and enforcement.
+1. Application of standards.
+a. If an existing structure contains industrial uses within an I or IL district and is expanded, enlarged,
+moved, structurally altered, or reconstructed, or any existing industrial use of land is enlarged, the
+neighborhood standards applicable to the district shall apply to the extent such use or structure is
+expanded, enlarged, moved, structurally altered, or reconstructed.
+2. Analysis.
+a. All industrial uses subject to the site plan review requirements of section 94-35 shall submit a
+neighborhood compatibility analysis of proposed facilities and operations. Site plan approval shall not
+be granted unless there is compliance with all of the following requirements:
+1. The analysis is prepared by qualified professional engineers or other appropriate professionals;
+2. The analysis contains definite findings that the proposed facilities and operations will be in
+compliance with the impact standards of this section;
+3. The applicant submits a sworn affidavit that the operation will be conducted in accordance with
+recommendations contained within the analysis, if recommendations are provided.
+b. All existing uses may be subject to an investigation by the planning and zoning administrator if a
+possible violation of the impact standards is suspected.
+3. Impact standards.
+a. Air quality standards.
+1. Smoke. Every use shall be operated to prevent the emission of smoke as specified in F.A.C. ch.
+17.2 "Rules of the Department of Environmental Regulations: Air Pollution," as revised.
+2. Particulate matter. Every use shall be operated to prevent the emission of dust or other solid
+matter as specified in F.A.C. ch. 17.2 "Rules of the Department of Environmental Regulations: Air
+Pollution," as revised.
+3. Odor. Every use shall be operated to prevent the emission of objectionable or offensive odors in
+such concentration as to be readily perceptible at any point at or beyond property lines on which
+the use is located as required in F.A.C. ch. 17.2, "Rules of the Department of Environmental
+Regulations: Air Pollution," as revised.
+b. Glare. Any operation or activity producing glare shall be conducted so that direct or indirect light from
+the source shall not cause illumination in excess of 0.5 foot candles when measured in a residential
+district.
+c. Vibration. All uses shall be operated in such fashion that ground vibration inherently and recurrently
+generated is not perceptible without instruments at any point on the property lines within which the use
+is located.
+1. Vibration shall be measured at or beyond any adjacent lot line or residential district line as
+indicated in Table 1. Measurements shall not exceed the particle velocities designated. The
+instrument used for measurements shall be a three component system capable of simultaneous
+measurement of vibration in three mutually perpendicular directions.
+
+Zoning and Land Development Code
+
+Page 1
+
+TABLE X-2:
+MAXIMUM GROUND TRANSMITTED VIBRATION
+ZONING DISTRICT
+
+Residential District
+Industrial District
+
+PARTICLE VELOCITY IN INCHES PER SECOND
+ADJACENT LOT LINE
+RESIDENTIAL LOT LINE
+
+0.10
+0.20
+
+0.02
+0.20
+
+2. Vibration is given as particle velocity, which may be measured directly with suitable
+instrumentation or computed on the basis of displacement and frequency. The following formula
+shall be used to compute particle velocity:
+P.V. = 6.28 F × D
+P.V. = Particle velocity, inches per second
+F = Vibration frequency, cycles per second
+D = Single amplitude displacement of the vibration, inches
+The maximum particle velocity shall be the vector sum of the three individual components
+recorded. Such particle velocities shall not exceed the values given in Table X-2.
+
+3. Where vibration is produced as discrete impulses, and such impulses do not exceed a frequency
+of one second between impulses, then the applicable value in Table X-2 may be multiplied by two.
+4. Vibration resulting from temporary construction activity occurring between 7:00 a.m. and 6:00 p.m.
+shall be exempt from the requirements of this section.
+d. Fire and explosive hazards. All structures, uses, construction, manufacturing, and industrial and
+commercial activities within the city shall comply with the rules and regulations, as amended, adopted
+by the office of the state fire marshal, pursuant to F.S. ch. 633.
+e. Noise. See chapter 34, article II of this code.
+c. Design and impact standards.
+1. Lighting onto residential. No lighting shall be directed from an industrial or industrial light use, which is subject
+to the requirements of this code, in a manner which illuminates adjoining residential property and no source of
+incandescent or mercury vapor illumination shall be directly visible from any adjoining residential property. No
+neon lights inside or outside structures shall be visible from any adjoining residential property.
+a. Control of effects of lights from vehicles or other sources. Where the site plan indicates potential
+adverse effects of parking or of other sources on the lot on which the nonresidential use is to be
+located, such effects shall be eliminated or at a minimum prevented so that lights do not illuminate
+adjacent residential property below a height of six feet at the residential lot line, or from shining into any
+residential window if there is to be nonresidential parking on the premises after dark.
+d. Buffer yard requirements. When an industrial or industrial light use is contiguous to any residential property, the
+property where the use is located shall be required to have a landscaped strip area and a physical barrier between
+it and the residential property. Such landscape strip shall meet the following requirements:
+1. Landscape strip requirement. A ten foot wide landscape strip shall be located along all property lines which
+are adjacent to residential property. Such landscape strip shall include trees, shrubs and ground cover as
+provided in the landscape provisions of section 94-443(2), landscape and tree preservation requirements.
+The width of the landscape area shall extend to the property line. All required landscaping shall be protected
+from vehicular encroachment.
+2. Parking restrictions. No parking shall be located within ten feet of the property line, within the yard area
+required by the district in which the proposed nonresidential use is located, when such yard is contiguous to
+residential property.
+
+Zoning and Land Development Code
+
+Page 2
+
+3. Dumpster regulations. All solid waste refuse containers (dumpsters) shall be set back a minimum of ten (10)
+feet from any property line which is contiguous to residential property, and shall be screened in accordance
+with the dumpster requirements provided in section 94-444(b).
+4. Loading facilities. Loading and service facilities shall be screened so as not to be visible from abutting
+residential property.
+5. Screening of rooftop mechanical equipment. All rooftop mechanical equipment and stair and elevator towers
+shall be designed as an integral part of the building volume and shall be required to be screened with material
+that matches the material used for the principal structure and shall be at least as high as six inches above the
+top most surface of the roof mounted structure.
+6. Wall requirements. A wall shall be required on the industrial or industrial light property, a minimum of seven
+feet in height, constructed in accordance with section 94-443(1)(b) and subject to the following:
+a. Shall be located within and along the length of the property line which abuts the residential property,
+b. When the industrial/industrial light property is located adjacent to an alley, such wall shall be located at
+least five feet from the right-of-way line located closest to the nonresidential property,
+c. When a utility or other public purpose easement on the industrial/industrial light property precludes the
+construction of wall, then an opaque fence, constructed in accordance with the standards described in
+section 94-443(1)(b), may be erected in lieu of the wall required by this section. The use of an opaque
+fence as a physical barrier between industrial and residential property shall be reviewed and approved
+by the planning and zoning division.
+e. Amortization application to existing uses. On or before December 31, 2021, all nonconforming uses of land which
+were in existence prior to such date shall comply with the requirements of subsection (d)(6) unless compliance
+would cause one or more of the following to occur:
+1. Demolition of any load-bearing portion of a building as it existed on December 31, 2016;
+2. Reduction of required parking spaces;
+3. Reduction in the number of parking spaces required if based on the parking requirements of section 94-486
+parking and loading requirements in effect on and applicable to such use on December 31, 2016;
+4. Relocation of an existing wall which complied with the code prior to December 31, 2016;
+5. Would require the removal of an existing wall or comparably durable and aesthetic wood or metal, excluding
+metal or wood slats in chain-link fences, which complied with the Code prior to December 31, 2016;
+6. Access to the land would be substantially impaired;
+7. Installation of the wall required by subsection (d)(6) would require a modification of the existing vehicular use
+area which would impair traffic circulation on the site and a minimum five foot high hedge, fence or other
+physical barrier is in place along the length of the industrial property line which abuts the residential property;
+In such cases, the use shall otherwise comply with the requirements of this section to the maximum extent
+possible; however, the requirement of subsection (d)(1) to install a landscape strip shall be met if an abutting
+residential property owner agrees in writing that the landscape strip may be placed on his or her property. An
+agreement in a form provided by the city must be executed by the applicant and the abutting property owner.
+If the abutting property owner removes the landscape strip after it has been installed, there shall be no further
+requirement to install another landscape strip on the abutting property in connection with the commercial use
+which existed at the time of the initial installation.
+(Ord. No. 4660-16, § 4, 12-5-2016)
+
+Zoning and Land Development Code
+
+Page 3
+
+

@@ -1,0 +1,138 @@
+Sec. 94-325. - Level II development standards.
+a. Concealed attached antenna.
+1. The top of the attached antenna shall not be more than 20 feet above the existing or proposed building or
+structure, excluding elevator shafts, appurtenances or other vertical spires or extensions.
+2. When an attached antenna is to be located on a legal nonconforming building or structure, then the existing
+permitted nonconforming setback and height shall prevail.
+3. Feed lines and antennas shall be designed to architecturally match the Façade, roof, wall, or structure on
+which they are affixed so that they blend with the existing structural design, color, and texture.
+4. Equipment cabinets shall be located within the existing building or behind an opaque enclosure matching the
+architectural designs and colors of the principal building or structure.
+5. New equipment cabinets are subject to the setback requirements of the underlying zoning district.
+b. Collocated or combining on existing tower.
+1. A collocated or combined antenna or antenna array shall not exceed the maximum height prescribed in the
+special use permit (if applicable) or as approved on the applicable site plan if originally constructed without a
+special use permit, and shall not affect any tower lighting.
+2. New antenna mounts shall be flush-mounted onto existing structures, unless it is demonstrated through RF
+propagation analysis that flush-mounted antennas will not meet the network objectives of the desired
+coverage area.
+3. Existing and new equipment cabinets shall be subject to the setbacks of the underlying zoning district. If the
+collocation or combined antenna is located on a legal nonconforming building or structure, then the existing
+permitted nonconforming setback shall prevail.
+4. At the time of installation, all applicable buffer and screening requirements shall be brought into compliance.
+5. Equipment cabinets shall be located within the existing equipment compound. If the existing equipment
+compound is not sized adequately to accommodate the new proposed ground equipment, then a revised site
+plan shall be submitted addressing the overall ground space for the proposed equipment.
+6. Applications entitled to the streamlined processes described in F.S. § 365.172(12) shall meet all the following
+requirements:
+i. The additional antenna array, transmission lines, and related ancillary equipment including the base
+station shall not exceed the number of same items previously approved for such tower when originally
+approved, and the collocated facility is in complete conformance with the original conditions imposed on
+the tower upon which it is being attached.
+ii. The proposed collocation shall not increase the overall height and width of the tower or
+telecommunications support structure to which the proposed infrastructure is to be attached.
+iii. The collocation shall not increase the ground space area approved in the antenna support facility site
+plan for equipment enclosures and ancillary facilities.
+iv. The existing tower on which the collocation will attach shall comply with applicable regulations,
+restrictions, or conditions, if any, applied to the initial telecommunications facilities placed on the tower.
+v. The proposed additional collocation and tower shall comply with all federal, state and local safety
+requirements.
+vi. The proposed collocation and ancillary equipment shall not exceed the applicable structural capacity
+limits for the tower, as evidenced by a sealed statement from a structural engineer licensed in the State
+of Florida.
+7. Applications for collocation entitled to streamlined processes pursuant to Section 6409 of the Middle Class
+Tax Relief and Job Creation Act of 2012 shall be approved provided they meet the following requirements, as
+applicable:
+i. A collocation on an existing antenna-supporting structure not in a public right-of-way shall not increase
+the overall height of the antenna-supporting structure, antenna and/or antenna array more than ten
+
+Zoning and Land Development Code
+
+Page 1
+
+percent or 20 feet, whichever is greater. A collocation on an existing antenna-supporting structure within
+a public right-of-way shall not increase the overall height of the antenna-supporting structure, antenna
+and/or antenna array more than ten percent or ten feet, whichever is greater.
+ii. A collocation eligible under this subsection (7) shall not, for towers not in a public right-of-way, protrude
+from the antenna-supporting structure more than 20 feet or the width of the structure at the elevation of
+the collocation, and for towers within a public right-of-way, protrude from the antenna-supporting
+structure more than six feet.
+iii. Any collocation on an existing antenna-supporting structure shall meet current building code
+requirements (including wind loading).
+iv. A collocation shall not add more than four additional equipment cabinets or one additional equipment
+shelter to be eligible as a collocation under this subsection (7).
+v. A collocation eligible under this subsection (7) shall not require excavation outside of existing leased or
+owned parcel or existing easements.
+vi. A collocation eligible under this subsection (7) shall not defeat any existing concealment elements of
+the antenna-supporting structure.
+c. Non-concealed attached antenna. Non-concealed attachments shall only be allowed on electrical transmission
+towers and existing light stanchions subject to approval by the planning division and the utility company or owner of
+said tower or stanchions. The attachments must be contained within canisters.
+d. Mitigation of existing tower. Mitigation shall accomplish a minimum of one of the following: i) reduce the total
+number of towers within the city; or ii) reduce the total number of nonconforming towers within the city; or iii) replace
+an existing tower with a new tower on the same property to improve network functionality resulting in compliance
+with this ordinance. Mitigation is subject to the following:
+1. No tower shall be mitigated more than one time.
+2. Height. The height of a tower approved for mitigation shall not exceed 115 percent of the height of the tallest
+tower that is being mitigated. (For example a 100-foot existing tower could be rebuilt at 115 feet.)
+3. Setbacks. Attempts shall be made to meet the setback requirement for the new tower on the same property
+to the maximum degree possible. At a minimum, the new tower and its equipment compound shall be no
+closer to any property lines, neighboring structures or adjacent dwelling units as the tower and equipment
+compound being mitigated.
+4. Breakpoint technology. A newly mitigated monopole or lattice tower shall use breakpoint technology in the
+design of the replacement facility.
+5. Buffers. At the time of mitigation, the tower equipment compound shall be brought into compliance with any
+applicable buffer requirements.
+6. Visibility. Mitigated antenna-supporting structures shall be configured and located in a manner that minimizes
+adverse effects on the lines of sight, landscape and adjacent properties, with specific design considerations
+as to height, scale, color, texture, and architectural design of the buildings on the same and adjacent zoned
+lots.
+7. Any replacement tower which meets the criteria set forth in this subsection (d) must obtain a level II wireless
+communications permit. Any replacement tower which does not meet the above criteria shall be considered a
+new tower subject to all provisions of this article. The existing tower, including tower base but excluding the
+tower foundation, must be removed within 90 days of the completion of the new tower.
+e. DAS facilities not located in public right-of-way (including DAS hub).
+1. Height. The height of a DAS facility not located in a public right-of-way shall not exceed the height of light
+poles or residential utility poles on surrounding lots.
+2. Setbacks. A distance equal to the height of the DAS facility shall separate the DAS facility from property lines,
+right-of-way lines and/or easements.
+3. Visibility.
+a. The placement of antennas on buildings and other structures is encouraged and preferred over the
+installation of towers or monopoles. Where feasible, co-location of facilities and minimum number of
+antennas shall be evaluated to determine whether and to the extent to which the proposed facility has
+been designed carefully.
+b. Where feasible, antennas can be placed directly above, below or incorporated with vertical design
+elements of a building to help in camouflaging.
+
+Zoning and Land Development Code
+
+Page 2
+
+c. Antenna-supporting structures shall be configured and located in a manner that minimizes adverse
+effects on the lines of sight, landscape and adjacent properties, with specific design considerations as
+to height, scale, color, texture, and architectural design of the buildings on the same and surrounding
+lots. Concealment design is strongly encouraged and shall be utilized whenever possible in order to
+minimize the visual impact of wireless communications facilities.
+4. Equipment cabinets. Equipment shelters or cabinets shall be consistent with the general character of the
+neighborhood and historic character if applicable. Equipment shelters or cabinets shall be screened from the
+public view by using landscaping, or otherwise concealed with materials and colors consistent with the
+surrounding backdrop, structures and local character.
+a. Screening enclosures shall be allowed when the design is architecturally compatible with the building.
+b. Screening materials shall consist of materials and colors consistent with the surrounding backdrop
+and/or textured to match the existing structure.
+c. The use of foliage and vegetation around ground equipment may be required based on conditions of
+the specific area where the ground equipment is to be located.
+d. Equipment cabinets may not be mounted on a freestanding DAS facility except at ground elevation,
+unless above-ground elevation is approved by the city commission as the best option to preserve
+aesthetics and local character.
+5. All exposed cables, conduits, surface mounted wires on attached DAS facilities shall be concealed or painted
+to match the building. Freestanding DAS facilities not in a public right-of-way shall not have exposed cables,
+conduits or surface mounted wires.
+6. Lighting of these facilities is not allowed.
+(Ord. No. 4549-15, § 2(94-335), 6-8-2015)
+
+Zoning and Land Development Code
+
+Page 3
+
+
