@@ -1,23 +1,12 @@
 # Building_Code_Consultant
 
-Description: A program that assesses models on whether they pass municipal code.
+# Directions
 
-Features
-Must Have: Existing municipal code represented (accuracy), a way of converting the code text to programming language, 
-	     a validation step that compares the code code to the model code
-Should Have: 
-Could Have:
-Won't Have:
+# Features To Come
+* Code consultant chatbot
+* Fine Tuned GPT 3.5/4 Integration
+* model checkers
+* ability to turn chatbot recommendations into model updates
+* omniverse integration
+* larger datasets than just West Palm Beach, FL
 
-Schedule: three weeks 
-
-Goal: To produce a working program. Creation of an iterable mvp that can be Generalte's foundation.
-
-Audience: Employers, Generlate users, Investors, Employees
-
-Limitations: made on windows, will probably be written in python, c++, pytorch, javascript, usd, omniverse and idk what else.
-
-Scope: might be compute-heavy, needs a data set to train,  how are exceptions handled? Initially, only needs to reference one municipality
-
-Objectives and Key Results: The project will be considered a success if the program runs from beginning to end effectively,
-			     regardless of accuracy.
