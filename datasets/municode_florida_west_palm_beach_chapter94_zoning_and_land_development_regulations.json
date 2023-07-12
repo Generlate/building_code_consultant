@@ -1,60 +1,136 @@
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
-{"prompt": "<promt text>", "completion": "<ideal generated text>"}
+{"prompt": "What is section 94-71? ->", "completion": "Section 94-71 is General Standards"}
+{"prompt": "In general standards, what are the district regulations? ->", "completion": "In general standards, the district regulations are regulations governing the height, bulk, mass and placement of structures within all residential districts"}
+{"prompt": "In general standards, what are accessory structures? ->", "completion": "In general standards, Accessory structures or private recreational facilities shall include, but not be limited to sheds, unattached garages, tennis courts, and swimming pools. Accessory structures shall be regulated pursuant to section 94-304. Accessory apartments shall be regulated pursuant to section 94-303. Lots less than the minimum district requirements for lot width and lot area shall not be considered nonconforming lots for the purpose of allowing accessory structures provided the structure is constructed within the required district setbacks."}
+{"prompt": "In general standards, what is outdoor storage in residential districts? ->", "completion": "Outdoor storage in residential districts for residential purposes shall be limited to domestic equipment and normal supplies necessary for residents. Storage shall not be permitted in any required or unrequired front setback, nor in any required side setback. Storage shall be permitted in unrequired side setbacks when completely screened by a fence or landscaping."}
+{"prompt": "In general standards, what are lots? ->", "completion": "Lots within each residential zoning district must contain the minimum area and width requirements; however, if a lot does not meet the area or width requirements of the district within which it is located, uses shall be limited by Table III-1 and pursuant to the limitations in subsection (d)(2). Accessory structures may be permitted in compliance with subsection (b)."}
+{"prompt": "In general standards, what is landscaping? ->", "completion": "Landscaping shall be provided pursuant to ARTICLE XIV of this chapter."}
+{"prompt": "In general standards, what are signs? ->", "completion": "Signs shall be regulated pursuant to ARTICLE XIII of this chapter."}
+{"prompt": "In general standards, what are nonconformities? ->", "completion": "Except as provided in subsection (b), nonconformities shall be regulated pursuant to ARTICLE XVI of this chapter."}
+{"prompt": "In general standards, what are fences and walls? ->", "completion": "Fences and walls shall be regulated pursuant to ARTICLE X of this chapter."}
+{"prompt": "In general standards, what is parking? ->", "completion": "Parking shall be provided pursuant to ARTICLE XV of this chapter."}
+{"prompt": "In general standards, what is in table III-1 ->", "completion": "Table III-1 of general standards contains data pertaining to districts, lot size, lot width and permitted use."}
+{"prompt": "In section 94-71: general standards, what is section a? ->", "completion": "section 94-71 section a is district regulations."}
+{"prompt": "In section 94-71: general standards, what is section b? ->", "completion": "section 94-71 section b is accessory structures."}
+{"prompt": "In section 94-71: general standards, what is section c? ->", "completion": "section 94-71 section c is outdoor storage."}
+{"prompt": "In section 94-71: general standards, what is section d? ->", "completion": "section 94-71 section d is lots."}
+{"prompt": "In section 94-71: general standards, what is section e? ->", "completion": "section 94-71 section e is landscaping."}
+{"prompt": "In section 94-71: general standards, what is section f? ->", "completion": "section 94-71 section f is signs."}
+{"prompt": "In section 94-71: general standards, what is section g? ->", "completion": "section 94-71 section g is nonconformities."}
+{"prompt": "In section 94-71: general standards, what is section h? ->", "completion": "section 94-71 section h is fences and walls."}
+{"prompt": "In section 94-71: general standards, what is section i? ->", "completion": "section 94-71 section i is parking."}
+{"prompt": "What is section 94-72? ->", "completion": "Section 94-72 is single family, low density-3 (SF-3) residential district; single-family medium density-5 (SF5) residential district; single-family low density"}
+{"prompt": "In section 94-72, what is section a?", "completion": "section 94-72 section a is property development regulations"}
+{"prompt": "In section 94-72, what is section b?", "completion": "section 94-72 section b is permitted uses"}
+{"prompt": "In section 94-72, what are property development regulations?", "completion": "property development regulations are the maximum dwelling units per acre for the single-family low density-3 (SF3), single-family medium density-5 (SF5) and single-family low density (SF7) residential districts is found in section 94-241, table VIII-1. "}
+{"prompt": "In section 94-72, what is permitted uses?", "completion": "permitted uses. uses permitted within the single-family low density-3 (SF3), single-family medium density-5 (SF5) and single-family low density (SF7) residential districts are provided in the schedule of permitted uses."}
+{"prompt": "What is section 94-73? ->", "completion": "Section 94-73 is sing-family/small lot (SF11) high density residential district"}
+{"prompt": "In section 94-73, what is section a?", "completion": "section 94-73 section a is applicability"}
+{"prompt": "In section 94-73, what is section b?", "completion": "section 94-73 section b is property development"}
+{"prompt": "In section 94-73, what is section c?", "completion": "section 94-73 section c is permitted uses"}
+{"prompt": "In section 94-73, what is section d?", "completion": "section 94-73 section d is off-street parking"}
+{"prompt": "In section 94-73, what is applicability?", "completion": "applicability is The single-family/small lot (SF11) high density residential district shall be utilized only in that area of the city within which small lots predominate, generally referred to as Coleman Park, located as follows: north of 15th Street, south of 23rd Street, east of the Florida East Coast Railroad tracks, and west of the Seaboard Coastline Railroad tracks; consisting of the following platted subdivisions: Grant Park, Lincoln Park, Gray's Addition to Grant Park, Josey's Subdivision (unrecorded), Johnson's Subdivision, Tamarind Park, Washington Heights, and Dunbar Village. This district shall not be utilized in areas of the city possessing vacant, unplatted land or vacant, platted land with lots containing 5,000 or more square feet."}
+{"prompt": "In section 94-73, what is property development regulations?", "completion": "property development regulations is The maximum dwelling units per acre for the single-family/small lot (SF11) high density residential district is found in section 94-241, table VIII-1."}
+{"prompt": "In section 94-73, what is permitted uses?", "completion": "permitted uses is Uses permitted within this district are provided in the schedule of permitted uses."}
+{"prompt": "In section 94-73, what is off-street parking?", "completion": "off-street parking is Notwithstanding any other provision of the parking regulations of this chapter, single-family dwelling units within the SF11 district shall provide at least one standard parking space per dwelling unit."}
+{"prompt": "What is section 94-74? ->", "completion": "Section 94-74 is single-family high density (SF14) residential district"}
+{"prompt": "In section 94-74, what is section a?", "completion": "section 94-74 section a is property development"}
+{"prompt": "In section 94-74, what is section b?", "completion": "section 94-74 section b is permitted uses"}
+{"prompt": "In section 94-74, what is property development regulations?", "completion": "property development regulations is The maximum dwelling units per acre for the single-family high density (SF14) residential district is found in section 94-241, table VIII-1."}
+{"prompt": "In section 94-74, what is permitted uses?", "completion": "permitted uses is Uses permitted within the single-family high density (SF14) residential district are provided in the schedule of permitted uses."}
+{"prompt": "What is section 94-75? ->", "completion": "Section 94-75 is multifamily low density (MF14) residential district"}
+{"prompt": "In section 94-75, what is section a?", "completion": "section 94-75 section a is minimum property development regulations"}
+{"prompt": "In section 94-75, what is section b?", "completion": "section 94-75 section b is permitted uses"}
+{"prompt": "In section 94-75, what is section c?", "completion": "section 94-75 section c is townhouse units"}
+{"prompt": "In section 94-75, what is minimum property development regulations?", "completion": "minimum property development regulations is Minimum property development regulations for the multifamily low density (MF14) residential district is Minimum property development regulations for the multifamily low density (MF14) residential district "}
+{"prompt": "In section 94-75, what is permitted uses?", "completion": "permitted uses is Uses permitted within multifamily low density (MF14) residential district are provided in the schedule of permitted uses. In addition, commercial uses may be allowed, subject to the provisions of subsection 94-513(d)"}
+{"prompt": "In section 94-75, what is townhouse units?", "completion": "townhouse units is Townhouse units shall be allowed in the multifamily low density (MF14) residential district as provided in ARTICLE X of this chapter"}
+{"prompt": "What is section 94-76? ->", "completion": "Section 94-76 is multifamily medium density (MF20) residential district"}
+{"prompt": "In section 94-76, what is section a?", "completion": "section 94-76 section a is minimum property development regulations"}
+{"prompt": "In section 94-76, what is section b?", "completion": "section 94-76 section b is permitted uses"}
+{"prompt": "In section 94-76, what is section c?", "completion": "section 94-76 section c is townhouse units"}
+{"prompt": "In section 94-76, what is minimum property development regulations?", "completion": "minimum property development regulations is Minimum property development regulations for the multifamily medium density (MF20) residential district "}
+{"prompt": "In section 94-76, what is permitted uses?", "completion": "permitted uses is Uses permitted within the multifamily medium density (MF20) residential district are provided in the Schedule of Permitted Uses"}
+{"prompt": "In section 94-76, what is townhouse units?", "completion": "townhouse units is Townhouse units in the multifamily medium density (MF20) residential district shall be allowed as provided in ARTICLE X of this chapter"}
+{"prompt": "What is section 94-77? ->", "completion": "Section 94-77 is multifamily high density (MF32) residential district"}
+{"prompt": "In section 94-77, what is section a?", "completion": "section 94-77 section a is minimum property development regulations"}
+{"prompt": "In section 94-77, what is section b?", "completion": "section 94-77 section b is permitted uses"}
+{"prompt": "In section 94-77, what is section c?", "completion": "section 94-77 section c is townhouse units"}
+{"prompt": "In section 94-77, what is minimum property development regulations?", "completion": "minimum property development regulations is Minimum property development regulations in the multifamily high density (MF32) residential district"}
+{"prompt": "In section 94-77, what is permitted uses?", "completion": "permitted uses is Uses permitted within the multifamily high density (MF32) residential district are provided in the schedule of permitted uses"}
+{"prompt": "In section 94-77, what is townhouse units?", "completion": "townhouse units is Townhouse units in the multifamily high density (MF32) residential district shall be allowed as provided in ARTICLE X of this chapter"}
+{"prompt": "What is section 94-78? ->", "completion": "Section 94-78 is historic residential districts"}
+{"prompt": "In section 94-78, what is section a?", "completion": "section 94-78 section a is historic residential districts established"}
+{"prompt": "In section 94-78, what is section b?", "completion": "section 94-78 section b expands on section a with design standards"}
+{"prompt": "In section 94-78, what is section c?", "completion": "section 94-78 section c states For any development regulation not specifically addressed in section 94-80 through section 94-84, the related zoning category for non-historic zoning areas shall apply."}
+{"prompt": "In section 94-78, what is historic residential districts established?", "completion": " is In order to preserve and protect the existing character, to ensure that new buildings are compatible with each other and with the existing urban fabric, and to promote the desired future character of the historic residential districts of West Palm Beach, a series of residential historic districts is established. These districts are patterned on the existing residential districts applicable in the city; however, development standards based on the particular context in which the districts are located have been derived, as set forth in the following sections (see Table III-2 below for summary of districts)."}
+{"prompt": "In section 94-78, what is in addition?", "completion": "in addition is In addition to the development standards for each residential historic district and their corresponding residential contexts, a series of design standards shall also apply, which promote the character and compatibility of these historic residential areas (see section 94-79). Designs within the historic district are also subject to the historic preservation ordinance, the City of West Palm Beach Design Guidelines, the Secretary of the Interior's Standards for Rehabilitation and reviewed by the Historic Preservation Planner or designee or board per the board approved review matrix."}
+{"prompt": "In section 94-78, what is in section c?", "completion": "section c is For any development regulation not specifically addressed in section 94-80 through section 94-84, the related zoning category for non-historic zoning areas shall apply."}
+{"prompt": "What is section 94-79? ->", "completion": "Section 94-79 is historic residential design standards"}
+{"prompt": "In section 94-79, what is section a?", "completion": "section 94-79 section a is measurement of dimensional standards"}
+{"prompt": "In section 94-79, what is section b?", "completion": "section 94-79 section b is contextual front setback standards"}
+{"prompt": "In section 94-79, what is section c?", "completion": "section 94-79 section c is additional wall height standards"}
+{"prompt": "In section 94-79, what is section d?", "completion": "section 94-79 section d is additional side stepback standards"}
+{"prompt": "In section 94-79, what is section e?", "completion": "section 94-79 section e is additional garage door standards"}
+{"prompt": "In section 94-79, what is measurement of dimensional standards?", "completion": "measurement of dimensional standards has 5 sections which cover finished ground floor, natural grade, overall height, side stepbacks and wall height."}
+{"prompt": "In section 94-79, what is contextual front setback standards?", "completion": "contextual front setback standards has 2 sections which cover non-corner lots and corner lots."}
+{"prompt": "In section 94-79, what is additional wall height standards?", "completion": "additional wall height standards is The maximum wall height may increase by one foot for each one foot of side setback that is additional to the minimum side setback. For example, if the minimum side setback is five feet, and the maximum wall height is 13 feet, the maximum wall height at a ten-foot side setback would be 18 feet."}
+{"prompt": "In section 94-79, what is additional side stepback standards?", "completion": "additional side stepback standards is For walls built above the maximum wall height at the minimum side setback, a stepback shall be required as set forth in section 94-241.5, Table VIII 1.5. Sloped roofs may be built above the maximum wall height within the minimum stepback area. Where a building is set back from the side property line by an amount equal to or greater than the minimum stepback, no stepback shall be required."}
+{"prompt": "In section 94-79, what is additional garage door standards?", "completion": "additional garage door standards is To ensure that new buildings relate to the street in a manner that is similar to that seen contextually, front facing garage doors shall be set back from the front facade by the distance specified in the schedule of district regulations. Garage doors not oriented toward the front property line and not visible from the public right-of-way shall be exempted from this standard. Alternative standards for the location of front facing garage doors are provided in section 94-85(i)."}
+{"prompt": "What is section 94-80? ->", "completion": "Section 94-80 is historic single-family low density residential, context 4 (SF7-C4)"}
+{"prompt": "In section 94-80, what is section a?", "completion": "section 94-80 section a is intent"}
+{"prompt": "In section 94-80, what is section b?", "completion": "section 94-80 section b is property development regulations"}
+{"prompt": "In section 94-80, what is section c?", "completion": "section 94-80 section c is permitted uses"}
+{"prompt": "In section 94-80, what is intent?", "completion": "intent is The intent of this district is to promote compatible additions and new construction in low density residential historic districts with a pattern of primarily one-story and some two-story buildings."}
+{"prompt": "In section 94-80, what is property development regulations?", "completion": "property development regulations is The property development regulations for the historic single-family low density residential, context 4 (SF7-C4)"}
+{"prompt": "In section 94-80, what is permitted uses?", "completion": "permitted uses is Uses permitted in the SF7-C4 district shall be those permitted in the SF7 district, as provided in ARTICLE IX of this chapter."}
+{"prompt": "What is section 94-81? ->", "completion": "Section 94-81 is historic single-family high density residential, context 2 (SF14-C2, MF14-C2)"}
+{"prompt": "In section 94-81, what is section a?", "completion": "section 94-81 section a is intent"}
+{"prompt": "In section 94-81, what is section b?", "completion": "section 94-81 section b is poperty development regulations"}
+{"prompt": "In section 94-81, what is section c?", "completion": "section 94-81 section c is permitted uses"}
+{"prompt": "In section 94-81, what is intent?", "completion": "intent is The intent of this district is to promote compatible additions and new construction in high density residential historic districts with a pattern of small and standard-sized lots and one- and two-story buildings."}
+{"prompt": "In section 94-81, what is property development regulations?", "completion": "property development regulations is The property development regulations for the historic single-family high density, context 2 (SF14-C2) residential district and the historic multifamily low density, context 2 (MF14-C2) residential district"}
+{"prompt": "In section 94-81, what is permitted uses?", "completion": "permitted uses is Uses permitted in the SF14-C2 and MF14-C2 districts shall be those permitted in the SF14 and MF14 districts, respectively, as provided in ARTICLE IX of this chapter."}
+{"prompt": "What is section 94-82? ->", "completion": "Section 94-82 is historic single-family high density residential, context 3 (SF14-C3)"}
+{"prompt": "In section 94-82, what is section a?", "completion": "section 94-82 section a is intent"}
+{"prompt": "In section 94-82, what is section b?", "completion": "section 94-82 section b is property development regulations"}
+{"prompt": "In section 94-82, what is section c?", "completion": "section 94-82 section c is permitted uses"}
+{"prompt": "In section 94-82, what is intent?", "completion": "intent is The intent of this district is to promote compatible additions and new construction in high density residential historic districts with a pattern of large lots and primarily two-story and some one-story buildings."}
+{"prompt": "In section 94-82, what is property development regulations?", "completion": "property development regulations is The property development regulations for the historic single-family high density residential, context 3 (SF14-C3) district"}
+{"prompt": "In section 94-82, what is permitted uses?", "completion": "permitted uses is Uses permitted in the SF14-C3 district shall be those permitted in the SF14 district, as provided in ARTICLE IX of this chapter."}
+{"prompt": "What is section 94-83? ->", "completion": "Section 94-83 is historic single-family high density residential, context 5 (SF14-C5)"}
+{"prompt": "In section 94-83, what is section a?", "completion": "section 94-83 section a is intent"}
+{"prompt": "In section 94-83, what is section b?", "completion": "section 94-83 section b is property development regulations"}
+{"prompt": "In section 94-83, what is section c?", "completion": "section 94-83 section c is permitted uses"}
+{"prompt": "In section 94-83, what is intent?", "completion": "intent is The intent of this district is to promote compatible additions and new construction on waterfront lot sin high density residential historic districts."}
+{"prompt": "In section 94-83, what is property deveopment regulations?", "completion": "property development regulations is The property development regulations for the historic single-family high density residential, context 5 (SF14-C5)"}
+{"prompt": "In section 94-83, what is permitted uses?", "completion": "permitted uses is Uses permitted in the SF14-C5 district shall be those permitted in the SF14 district, as provided in ARTICLE IX of this chapter."}
+{"prompt": "What is section 94-84? ->", "completion": "Section 94-84 is historic multifamily low, medium and high density, context 1 (MF14-C1, MF20-C1, MF32-C1, NWD-R-C1)"}
+{"prompt": "In section 94-84, what is section a?", "completion": "section 94-84 section a is intent"}
+{"prompt": "In section 94-84, what is section b?", "completion": "section 94-84 section b is property development regulations"}
+{"prompt": "In section 94-84, what is section c?", "completion": "section 94-84 section c is permitted uses"}
+{"prompt": "In section 94-84, what is section d?", "completion": "section 94-84 section d is townhouse units"}
+{"prompt": "In section 94-84, what is intent?", "completion": "intent is The intent of this district is to promote compatible additions and new construction in multifamily residential historic districts. The density of these zoning districts shall not exceed that permitted in the related zoning district and suffix associated with the category."}
+{"prompt": "In section 94-84, what is property development regulations?", "completion": "property development regulations is The property development regulations for the historic multifamily low density, context 1 (MF14-C1) residential district, the multifamily medium density, context 1 (MF20-C1) residential district, the multifamily high density, context 1 (MF32-C1) residential district, and the Downtown master plan northwest residential district, context 1 (NWD-R-C1)"}
+{"prompt": "In section 94-84, what is permitted uses?", "completion": "permitted uses is Uses permitted in the MF14-C1, MF20-C1, and MF32-C1 district shall be those permitted in the MF14, MF20, and MF32 districts, respectively, as provided in ARTICLE IX of this chapter, for properties in the NWD-R in the DMP see section 94-105."}
+{"prompt": "In section 94-84, what is townhouse units?", "completion": "townhouse units is Townhouse units in the MF20-C1 district shall be allowed as provided in ARTICLE X of this chapter."}
+{"prompt": "What is section 94-85? ->", "completion": "Section 94-85 is special exception standards for historic residential districts"}
+{"prompt": "In section 94-85, what is section a?", "completion": "section 94-85 section a is special exception standards"}
+{"prompt": "In section 94-85, what is section b?", "completion": "section 94-85 section b is wall height exception"}
+{"prompt": "In section 94-85, what is section c?", "completion": "section 94-85 section c is side setback exception"}
+{"prompt": "In section 94-85, what is section d?", "completion": "section 94-85 section d is lot coverage exception for one-story structures"}
+{"prompt": "In section 94-85, what is section e?", "completion": "section 94-85 section e is lot coverage and floor area exceptions for detached rear accessory structures"}
+{"prompt": "In section 94-85, what is section f?", "completion": "section 94-85 section f is lot coverage and floor area ratio exceptions through special exception review"}
+{"prompt": "In section 94-85, what is section g?", "completion": "section 94-85 section g is alterntive minimum floor area for very small or constrained lots"}
+{"prompt": "In section 94-85, what is section h?", "completion": "section 94-85 section h is alternative garage location standards"}
+{"prompt": "In section 94-85, what is special exception standards?", "completion": "special exception standards is City staff or the historic preservation board may grant special exceptions to some base dimensional standards as described in text below and summarized in Table III-3."}
+{"prompt": "In section 94-85, what is wall height exception?", "completion": "wall height exception is The historic preservation board may grant a limited exception to the maximum wall height at the side setback for additions to contributing historic structures according to the table of special exception standards in subsection 94-85(a)."}
+{"prompt": "In section 94-85, what is site setback exception?", "completion": "site setback exception is The historic preservation board may grant a limited exception to the minimum side setback on one side of the property for additions to contributing historic structures according to the table of special exception standards in subsection 94-85(a). An exception shall not be granted where any portion of the resulting building, including encroachments such as roof eaves, would be located closer than two feet to an adjacent property line."}
+{"prompt": "In section 94-85, what is lot coverage exception for one-story structures?", "completion": "lot coverage exception for one-story structures is City staff may grant a limited exception to the maximum lot coverage standard for all new construction and additions according to the table of special exception standards in subsection 94-85(a) where all structures on a property are one story."}
+{"prompt": "In section 94-85, what is lot coverage and floor area exceptions for detached rear accessory structures?", "completion": "lot coverage and floor area exceptions for detached rear accessory structures is City staff may grant limited exceptions to the maximum lot coverage and floor area ratio standards for all new construction and additions according to the Table III-3."}
+{"prompt": "In section 94-85, what is lot coverage and floor area ratio exceptions through special exception review?", "completion": "lot coverage and foor area ratio exceptions through special exception review is The historic preservation board may grant limited exceptions to the maximum lot coverage or floor area ratio standards for all new construction and additions according to the table of special exception standards in subsection 94-85(a). A special exception may be granted for either the lot coverage or floor area ratio standard, but not both. This does not apply to one-story structures where lot coverage and floor area ratio are the same."}
+{"prompt": "In section 94-85, what is alternative minimum floor area for very small or constrained lots?", "completion": "alternative minimum foor area for very small or constrained lots is City staff may grant an exception to the floor area ratio standard where it would restrict the maximum buildable floor area to less than 1,700 square feet on a lot. In such cases a maximum floor area standard of 1,700 square feet may instead be used. Note that other dimensional standards such as minimum setbacks and maximum overall height standards may still restrict the maximum buildable floor area to less than 1,700 square feet."}
+{"prompt": "In section 94-85, what is alternative garage location standards?", "completion": "alternative garage location standards is The historic preservation board may grant a limited exception to the garage location standard for additions to contributing historic structures according to the table of special exception standards in subsection 98-85(a)."}
+{"prompt": "What is section 94-86? ->", "completion": "Section 94-86 is historic residential district definitions"}
+{"prompt": "What is section 94-87? ->", "completion": "Section 94-87 is reserved."}
+{"prompt": "in section 94-72, what is property development regulations? ->", "completion": "The maximum dwelling units per acre for the single-family low density-3 (SF3), single-family medium density-5 (SF5) and single-family low density (SF7) residential districts is found in section 94-241, table VII-1."}
+{"prompt": "in section 94-72, what is permitted uses? ->", "completion": "Uses permitted within the single-family low density-3 (SF3), single-family medium desnity-5 (SF5) and single-family low density (SF7) residential districts are provded in the schedule of permitted uses."}
