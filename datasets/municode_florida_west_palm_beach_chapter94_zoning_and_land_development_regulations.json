@@ -396,7 +396,7 @@
 {"prompt": "in section 94-76, what is the minimum lot area for 20,000 square feet or more? ->", "completion": "2,150 square feet per unit, not to exceed maximum of 20.26 dwelling units per acre."}
 {"prompt": "in section 94-76, what is the minimum lot width? ->", "completion": "60 feet."}
 {"prompt": "in section 94-76, what is the minimum lot width of parcels described in subsection 94-71(d)(2)? ->", "completion": "75 feet."}
-{"prompt": "in section 94-76, what is the minimum lot depth of parcels descrived in subsection 94-71(d)(2)? ->", "completion": "100 feet measured from the east property line to the west property line at the shortest distance between the property lines. the east property lines of lots described in subsections 94-71(d)(2)(b) and (d) that are parallel to and abut either flagler drive or flagler court shall be considered the front property lines."}
+{"prompt": "in section 94-76, what is the minimum lot depth of parcels described in subsection 94-71(d)(2)? ->", "completion": "100 feet measured from the east property line to the west property line at the shortest distance between the property lines. the east property lines of lots described in subsections 94-71(d)(2)(b) and (d) that are parallel to and abut either flagler drive or flagler court shall be considered the front property lines."}
 {"prompt": "in section 94-76, what is the minimum front setback? ->", "completion": "25 feet."}
 {"prompt": "in section 94-76, what is the minimum corner setback? ->", "completion": "12.5 feet; ten feet if lot is less than 60 feet wide."}
 {"prompt": "in section 94-76, what is the minimum rear setback? ->", "completion": "15 feet or ten percent of lot depth, whichever is less."}

@@ -1,10 +1,13 @@
-# Directions
+## Directions
+- Go to /building_code_consultant/chatbot/
+- Run ```python3 main.py``` 
+- Enter chatbot questions.
 
-# Features To Come
-* Code consultant chatbot
-* Fine Tuned GPT 3.5/4 Integration
-* model checkers
-* ability to turn chatbot recommendations into model updates
-* omniverse integration
+## Features To Come
+* Higher answer accuracy
+* GPT 3.5/4 integration
+* 3d model awareness
+* Omniverse support
 * larger datasets than just West Palm Beach, FL
+* autonomy (ability to execute functions)
 

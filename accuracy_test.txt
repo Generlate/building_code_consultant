@@ -1,0 +1,79 @@
+1. {prompt: "Is this fine tune model trained on municode?"	completion: "Yes." }	
+dataset completion: "Yes."
+correct: Yes
+
+2. {prompt: "in section 94-71, where are regulations governing the height, bulk, mass and placement of structures within all residential districts?"	completion: "These regulations can be found in table III-1."}	
+dataset completion: "These regulations can be found in table III-1."	
+correct: Yes
+
+3. {prompt: "In general standards, what is outdoor storage in residential districts?"	completion: "Outdoor storage in residential districts for residential purposes shall be limited to domestic equipment"} 	
+dataset completion: "Outdoor storage in residential districts for residential purposes shall be limited to domestic equipment and normal supplies necessary for residents. Storage shall not be permitted in any required or unrequired front setback, nor in any required side setback. Storage shall be permitted in unrequired side setbacks when completely screened by a fence or landscaping."	
+correct: 1/2
+
+4. {prompt: "What is section 94-72?"	completion: "Section 94-72 is historic single-family high density residential, context"}	dataset completion: "Section 94-72 is single family, low density-3 (SF-3) residential district; single-family medium density-5 (SF5) residential district; single-family low density"	
+correct: 1/2
+
+5. {prompt: "In section 94-78, what is in section c?"	completion: section c is single- or multifamily special use standards for historic residential districts}	
+dataset completion: "section c is For any development regulation not specifically addressed in section 94-80 through section 94-84, the related zoning category for non-historic zoning areas shall apply."	
+correct: 1/2
+
+6. {prompt: "in table III-1, what is in row five?"	completion: "SF14-C1; fewer than 5,00; fewer than 40"}	
+dataset completion: "SF14-C2; fewer than 5,000; fewer than 50; single-family dwelling."	
+correct: 1/2
+
+7. {prompt: "in table III-1, what is column three's title?"	completion: "In table III-1, column three is lot size. ->lot size"}	dataset completion: "In table III-1, column three is lot width."	
+correct: 1/2
+
+8. {prompt: "in section 94-73, what is the minimum lot area?"	completion: "3,500 square feet. lot area for one dwelling unit plus a accessory" }	
+dataset completion: "3,500 square feet."	
+correct: 1/2
+
+9. {prompt: "in section 94-74, minimum lot dimensions for single-family use without accessory apartment, what is the minimum lot width?"	completion: "60 feet. what is the minimum lot depth? ->60 feet. what"}	
+dataset completion: "60 feet."	
+correct: 1/2
+
+10. {prompt: "in section 94-74, are uses permitted within the single-family high density (SF14) residential district provided in the schedule of permitted uses?"	completion: "yes. Uses permitted within the single-family high density (SF14)"}	
+dataset completion: "yes."	
+correct: 1/2
+
+11. {prompt: "in section 94-75, may commercial uses be allowed?" 	completion: "Yes. Commercial uses may be allowed, subject to the provisions of subsection 94"}	
+dataset completion: "Yes. Commercial uses may be allowed, subject to the provisions of subsection 94-513(d)"	
+correct: 1/2
+
+12. {prompt: "in section 94-76, what is the minimum lot depth of parcels described in subsection 94-71(d)(2)?"	completion: "100 feet measured from the east property line to the west property line at the"}	
+dataset completion: "100 feet measured from the east property line to the west property line at the shortest distance between the property lines. the east property lines of lots described in subsections 94-71(d)(2)(b) and (d) that are parallel to and abut either flagler drive or flagler court shall be considered the front property lines."	
+correct: 1/2
+
+13. {prompt: "Where can this data be found?"	completion: "single-family high density (SF14) residential district"}	
+dataset completion: "this data can be found at online.encodeplus.com."	
+correct: No
+
+14. {prompt: "In section 94-71, what is in table III-1"	completion: "Table III-1 is lots, floor area and use standards for low density"}	
+dataset completion: "Table III-1 of general standards contains data pertaining to districts, lot size, lot width and permitted use."	
+correct: No
+
+15. {prompt: "In general standards, what section is parking?"	completion: "section parking is section h of general standards. parking shall be provided pursuant to"}	
+dataset completion: "section parking is section i of general standards."	
+correct: No
+
+16. {prompt: "In section 94-75, what is section a?"	completion: "section 94-75 section a is intent. The intent of this district is to"}	
+dataset completion: "section 94-75 section a is minimum property development regulations"	
+correct: No
+
+17. {prompt: "In section 94-77, what is townhouse units?"	completion: "townhouse units is Townhouse units shall be permitted in the multifamily high density"}	
+dataset completion: "townhouse units is Townhouse units in the multifamily high density (MF32) residential district shall be allowed as provided in ARTICLE X of this chapter"	
+correct: No
+
+18. {prompt: "What section is historic residential districts?"	completion: "historic residential districts is section 94-75. ->historic residential districts table of"}	
+dataset completion: "historic residential districts is section 94-78"	
+correct: No
+
+19. {prompt: "In section 94-85, what is section d?"	completion: "section 94-85 section d is off-street parking for accessory dwelling units in"}	
+dataset completion: "section 94-85 section d is lot coverage exception for one-story structures"	
+correct: No
+
+20. {prompt: "in table III-1, what is in column one?"	completion: "MF1, fewer than 6,000; MF2, 6,000"}	
+dataset completion: "SF3, 5, 7; SF11; SF14; SF7-C4; SF14-C2; SF14-C3; SF14-C5; MF14; MF20; MF32."	
+correct: No
+
+model accuracy: 7/20 = 35%
