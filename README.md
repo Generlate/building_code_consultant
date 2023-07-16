@@ -3,6 +3,10 @@
 - Run ```python3 main.py``` 
 - Enter chatbot questions.
 
+## Dependencies
+- Python3
+- Openai
+
 ## Features To Come
 * Higher answer accuracy
 * GPT 3.5/4 integration
