@@ -4,7 +4,7 @@ import openai
 # openai tools fine_tunes.prepare_data -f ./datasets/municode_florida_west_palm_beach_chapter94_zoning_and_land_development_regulations.json
 
 # authorize the api with the key from https://platform.openai.com/account/api-keys
-openai.api_key = "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"
+openai.api_key = "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"
 
 # create a fine tune model. (terminal)
 # openai api fine_tunes.create -t ./datasets/municode_florida_west_palm_beach_chapter94_zoning_and_land_development_regulations.json -m davinci

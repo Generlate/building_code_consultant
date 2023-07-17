@@ -1,6 +1,6 @@
 ## Directions
 - Go to /building_code_consultant/chatbot/
-- Run ```python3 main.py``` 
+- Run ```python3 main.py``` in terminal.
 - Enter chatbot questions.
 
 ## Dependencies
