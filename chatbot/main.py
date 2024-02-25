@@ -12,7 +12,8 @@ openai.api_key = "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"
 # Enter a prompt and get an answer (called a completion).
 openai.Completion.create(
     model="davinci:ft-personal-2023-07-14-10-54-52",
-    prompt=input("Enter your prompt: "))
+    prompt=input("Enter your prompt: "),
+)
 
 # Delete a fine-tune model.
 # import openai
