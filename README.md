@@ -1,4 +1,4 @@
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/OWNER/REPO)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/OWNER/REPO) <br>
 Speech is the fastest modern interface. as such, I'm more interested in developing chatbots than I am in GUIs.
 
 This chatbot is a python-OpenAI API. It fine-tunes the existing Davinci LLM (large language model) to include data from the West Palm Beach, FL section of Municode (development code). 400 lines of prompt-completion pairs were formatted to .json and given to OpenAI. OpenAI charges for this service. So, I've deactivated the authorization keys. After training, the model is able to answer municode related questions with a 35% accuracy.
