@@ -1,4 +1,3 @@
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/Generlate/building_code_consultant) <br>
 Speech is the fastest modern interface. as such, I'm more interested in developing chatbots than I am in GUIs.
 
 test
