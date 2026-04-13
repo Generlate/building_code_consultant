@@ -1,10 +1,15 @@
-import openai
+import os
 
+import openai
+from dotenv import load_dotenv
+
+load_dotenv()
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 # use this on the .json data to format it. (terminal)
 # openai tools fine_tunes.prepare_data -f ./datasets/municode_florida_west_palm_beach_chapter94_zoning_and_land_development_regulations.json
 
 # authorize the api with the key from https://platform.openai.com/account/api-keys
-openai.api_key = "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"
+openai.api_key = OPENAI_API_KEY
 
 # create a fine tune model. (terminal)
 # openai api fine_tunes.create -t ./datasets/municode_florida_west_palm_beach_chapter94_zoning_and_land_development_regulations.json -m davinci
@@ -17,4 +22,5 @@ openai.Completion.create(
 
 # Delete a fine-tune model.
 # import openai
+# openai.Model.delete("davinci:ft-personal-2023-07-14-10-54-52")
 # openai.Model.delete("davinci:ft-personal-2023-07-14-10-54-52")
