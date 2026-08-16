@@ -5,6 +5,8 @@ This chatbot is a python-OpenAI API. It fine-tunes the existing Davinci LLM (lar
 
 While the accuracy of this project is too low to be useful, it was a success. I gained experience with the fine-tuning process. Chatbots can replace GUIs as the major interface method. Their value is speed. So, chatbots seems necessary on the path to create city generating programs.
 
+https://github.com/user-attachments/assets/5ccd75f9-b336-45f3-abe3-41509241254c
+
 ## Directions
 
 -   Go to /building_code_consultant/chatbot/
