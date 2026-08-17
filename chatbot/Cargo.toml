@@ -1,0 +1,17 @@
+[package]
+name = "chatbot"
+version = "0.1.0"
+edition = "2024"
+authors = ["Austen <austencabret@gmail.com>"]
+description = "A CLI chatbot that queries a fine-tuned OpenAI model trained on West Palm Beach zoning and land development regulations (Municode Chapter 94)"
+license = "Apache-2.0"
+repository = "https://github.com/Generlate/building_code_consultant"
+readme = "README.md"
+keywords = ["openai", "openai-api", "chatbot", "fine-tune", "dataset"]
+categories = ["command-line-utilities", "api-bindings"]
+
+[dependencies]
+tokio = { version = "1", features = ["full"] }
+reqwest = { version = "0.12", features = ["json"] }
+serde_json = "1"
+dotenvy = "0.15"
